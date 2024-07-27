@@ -24,6 +24,31 @@ Using Blender tools and modifiers to adjust the links and joints measurements an
 
 <img width="346" alt="m1" src="https://github.com/user-attachments/assets/94c38e5f-09bc-4ce6-8b4e-bc815addb279">
 
+### Detailed Creation Process:
+
+After generating the basic shapes (cylinders and cubes), the following steps were taken to create the robot arm as shown in the image:
+
+1. **Positioning the Base:**
+   - A cylinder was used for the base of the arm. It was scaled to the appropriate size to provide a stable foundation.
+
+2. **Creating Arm Joints:**
+   - Smaller cylinders were added for the joints. These cylinders were positioned at the connection points between the arm segments.
+
+3. **Connecting Arm Links:**
+   - Cubes were used to create the arm links. Each cube was scaled to the desired length and positioned between the joints.
+   - The cubes were then rotated to align properly with the joints and ensure smooth movement.
+
+4. **Adjusting the Joints and Links:**
+   - The `Move` tool was used to position each joint and link accurately.
+   - The `Rotate` tool was used to orient the joints and links in the correct direction.
+   - The `Scale` tool was used to adjust the dimensions of the links, ensuring that each segment was proportional.
+
+5. **Smoothing the Edges:**
+   - The `Bevel Modifier` was applied to the edges of the arm links and joints to smooth out sharp corners, giving the arm a more refined appearance.
+
+6. **Final Assembly:**
+   - The individual components (base, joints, and links) were assembled together by precisely positioning each part to create a cohesive robot arm structure.
+
 ## Animation
 
 ### Steps to Animate the Robot Arm:
