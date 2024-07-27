@@ -80,7 +80,7 @@ After generating the basic shapes (cylinders and cubes), the following steps wer
 
 robot 5 DoF movement 
 - initial state
-<img width="582" alt="m3" src="https://github.com/user-attachments/assets/ad01567e-1ac0-4ca4-a314-3ab5b31bac41">
+<img width="582" alt="m3" src="https://github.com/user-attachments/assets/ad01567e-1ac0-4ca4-a314-3ab5b31bac41"> .
 - base move
 <img width="578" alt="m4" src="https://github.com/user-attachments/assets/ebf2deed-51a6-4c7b-a829-f58e459b5c6f">
 - lower arm move
