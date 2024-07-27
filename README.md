@@ -78,19 +78,20 @@ After generating the basic shapes (cylinders and cubes), the following steps wer
 7. **Playback and Adjust:**
    - Play back the animation using the timeline to check for any issues. Adjust keyframes and weight painting as necessary to improve the animation.
 
-robot 5 DoF movement 
+robot 5 DoF movement:
+
 - initial state
 <img width="582" alt="m3" src="https://github.com/user-attachments/assets/ad01567e-1ac0-4ca4-a314-3ab5b31bac41"> .
 - base move
-<img width="578" alt="m4" src="https://github.com/user-attachments/assets/ebf2deed-51a6-4c7b-a829-f58e459b5c6f">
+<img width="578" alt="m4" src="https://github.com/user-attachments/assets/ebf2deed-51a6-4c7b-a829-f58e459b5c6f"> .
 - lower arm move
-<img width="581" alt="m5" src="https://github.com/user-attachments/assets/7b32dd90-5bd8-4cb7-9968-899f5685074e">
+<img width="581" alt="m5" src="https://github.com/user-attachments/assets/7b32dd90-5bd8-4cb7-9968-899f5685074e"> .
 - middle arm move
-<img width="583" alt="m6" src="https://github.com/user-attachments/assets/b6aa261e-30e5-4844-9f36-52fcda125d5e">
+<img width="583" alt="m6" src="https://github.com/user-attachments/assets/b6aa261e-30e5-4844-9f36-52fcda125d5e"> .
 - higher arm move
-<img width="581" alt="m7" src="https://github.com/user-attachments/assets/4af3661a-6333-4b9f-a0f1-6805e60b331b">
+<img width="581" alt="m7" src="https://github.com/user-attachments/assets/4af3661a-6333-4b9f-a0f1-6805e60b331b"> .
 - end effector move
-<img width="584" alt="m8" src="https://github.com/user-attachments/assets/267998ad-1b4f-49f9-95e9-bf8343ff835c">
+<img width="584" alt="m8" src="https://github.com/user-attachments/assets/267998ad-1b4f-49f9-95e9-bf8343ff835c"> .
 
 and attached to this repository is the robot arm blender file 
 
