@@ -61,5 +61,5 @@ robot movement
 <img width="581" alt="m7" src="https://github.com/user-attachments/assets/4af3661a-6333-4b9f-a0f1-6805e60b331b">
 <img width="584" alt="m8" src="https://github.com/user-attachments/assets/267998ad-1b4f-49f9-95e9-bf8343ff835c">
 
-and attached to this repositry is the file 
+and attached to this repository is the file 
 
